@@ -20,14 +20,10 @@
 ## 💥 Local Access in Android phones
 - Open the link given below in your android set
 ```sh
-https://drive.google.com/file/d/1-eWgUyMgzGN9Kjw945vcDCfY4BShRtLk/view?usp=sharing
-```
-- Allow the device to download app from external source
-```sh
-Settings-> Lock screen and securtiy-> Unknown Sources -> Turn it on
+https://play.google.com/store/apps/details?id=com.mygdx.coinman12
 ```
 - Download apk
 - Now you are good to go 🏃‍
-
+- Reviews on Play store are welcomed.
 Drop a ⭐ on the Github Repository.
 
