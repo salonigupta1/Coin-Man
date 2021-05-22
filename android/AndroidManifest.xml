@@ -1,18 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.mygdx.game" >
+    package="com.mygdx.coinman12" >
 
     <application
         android:allowBackup="true"
         android:icon="@drawable/logo2"
         android:isGame="true"
         android:appCategory="game"
+
         android:label="Coin Man"
         android:theme="@style/GdxTheme" >
         <activity
-            android:name="com.mygdx.game.AndroidLauncher"
+            android:name="com.mygdx.coinman12.AndroidLauncher"
             android:label="@string/app_name" 
-            android:screenOrientation="portrait"
+            android:screenOrientation="sensor"
+
             android:configChanges="keyboard|keyboardHidden|navigation|orientation|screenSize|screenLayout">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

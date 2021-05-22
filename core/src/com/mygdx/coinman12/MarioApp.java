@@ -1,22 +1,16 @@
-package com.mygdx.game;
+package com.mygdx.coinman12;
 
 import com.badlogic.gdx.ApplicationAdapter;
 import com.badlogic.gdx.Gdx;
 import com.badlogic.gdx.graphics.Color;
-import com.badlogic.gdx.graphics.GL20;
 import com.badlogic.gdx.graphics.Texture;
 import com.badlogic.gdx.graphics.g2d.BitmapFont;
 import com.badlogic.gdx.graphics.g2d.SpriteBatch;
-import com.badlogic.gdx.graphics.g3d.particles.influencers.ColorInfluencer;
 import com.badlogic.gdx.math.Intersector;
 import com.badlogic.gdx.math.Rectangle;
 
-import org.w3c.dom.css.Rect;
-
 import java.util.ArrayList;
 import java.util.Random;
-
-import javax.lang.model.type.IntersectionType;
 
 public class MarioApp extends ApplicationAdapter {
 	SpriteBatch batch;

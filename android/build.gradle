@@ -17,7 +17,7 @@ android {
         exclude 'META-INF/robovm/ios/robovm.xml'
     }
     defaultConfig {
-        applicationId "com.mygdx.game"
+        applicationId "com.mygdx.coinman12"
         minSdkVersion 14
         targetSdkVersion 30
         versionCode 1
